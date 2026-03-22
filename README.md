@@ -212,6 +212,4 @@ Back to top
 
 ## Notes
 
-- `potions_cuantity` is a typo carried over from the source code; the intended spelling is `potions_quantity`.
-- `os.system("clear")` works on Unix/macOS. For Windows compatibility, replace with `os.system("cls")`.
-- The `Enemy.auto_heal()` method has no usage cap — the enemy will heal every turn it remains at low HP.
+- `os.system("clear")` works on Unix/macOS. For Windows compatibility, replace with `os.system("cls")
